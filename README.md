@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hello, I'm Dmitriy | C#/.NET Developer  
+### Привет, я Дмитрий | C#/.NET разработчик
 
-<!--
-**Lordi-back/Lordi-back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EN** | **RU**
+-----|-----
+Beginner Backend/Fullstack developer focused on C# and .NET. I create functional applications with complex business logic and well-designed database architecture. | Начинающий Backend/Fullstack разработчик с фокусом на C# и .NET. Создаю функциональные приложения со сложной бизнес-логикой и продуманной архитектурой баз данных.
 
-Here are some ideas to get you started:
+**🛠 Tech Stack | Технологии:**
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework
+- **Databases:** MS SQL Server, T-SQL, Stored Procedures, Triggers
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** Git, Visual Studio, SSMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📊 GitHub Stats:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lordi-back&show_icons=true&theme=default)
+
+**🚀 My Projects | Мои проекты:**
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Aura Flow Collection](https://github.com/Lordi-back/Aura-Flow-Collection) | E-commerce clothing website | HTML, CSS, JS |
+| [Engineering Calculator](https://github.com/Lordi-back/Engineering-Calculator) | Calculator for complex engineering calculations | C#, .NET |
+| [Database Projects](https://github.com/Lordi-back/Databases) | SQL scripts and database schemas | SQL, T-SQL |
+
+**📫 Contact Me | Контакты:**
+- Telegram: @Funny_bastard
+- Email: 89617151191d@gmail.com
