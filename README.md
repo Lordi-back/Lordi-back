@@ -19,7 +19,7 @@ Beginner Backend/Fullstack developer focused on C# and .NET. I create functional
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Aura Flow Collection](https://github.com/Lordi-back/Aura-Flow-Collection) | E-commerce clothing website | HTML, CSS, JS |
-| [Engineering Calculator](https://github.com/Lordi-back/Engineering-Calculator) | Calculator for complex engineering calculations | C#, .NET |
+| [Engineering Calculator](https://github.com/Lordi-back/Engineering-Calculator-WPF) | WPF app with matrix/geometry calculations | C#, WPF, MVVM |
 | [Database Projects](https://github.com/Lordi-back/Databases) | SQL scripts and database schemas | SQL, T-SQL |
 
 **📫 Contact Me | Контакты:**
