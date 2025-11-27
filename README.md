@@ -21,7 +21,7 @@ Beginner Backend/Fullstack developer focused on C# and .NET. I create functional
 | [Aura Flow Collection](https://github.com/Lordi-back/Aura-Flow-Collection) | E-commerce clothing website | HTML, CSS, JS |
 | [Engineering Calculator](https://github.com/Lordi-back/Engineering-Calculator-WPF) | WPF app with matrix/geometry calculations | C#, WPF, MVVM |
 | [Database Projects](https://github.com/Lordi-back/Databases) | SQL scripts and database schemas | SQL, T-SQL |
-| [DomeLedger Pro](https://github.com/Lordi-back/DomeLedger-Pro) |WPF app | SQL scripts and database schemas |C#, WPF, MVVM| SQL, T-SQL | WPF app with matrix/geometry calculations |
+| [DomeLedger Pro](https://github.com/Lordi-back/DomeLedger-Pro) |WPF app | C#, WPF, MVVM |SQL scripts and database schemas| SQL, T-SQL | WPF app with matrix/geometry calculations |
 
 **📫 Contact Me | Контакты:**
 - Telegram: @Funny_bastard
