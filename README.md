@@ -25,5 +25,4 @@ Beginner Backend/Fullstack developer focused on C# and .NET. I create functional
 | [Shopping-List](https://github.com/Lordi-back/Shopping-List) |Python | FastAPI |Next.js TypeScript Supabase Docker| 
 
 **📫 Contact Me | Контакты:**
-- Telegram: @Funny_bastard
 - Email: 89617151191d@gmail.com
